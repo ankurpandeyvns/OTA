@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <ham>
-            <Filename>RR-N-v5.8.4-20170810-ham-Official</Filename>
+            <Filename>RR-N-v5.8.4-20170827-ham-Official</Filename>
             <RomUrl
                 id="rom"
                 title="I need the latest version!!"
-                description="Touch here to get it!">https://master.dl.sourceforge.net/project/resurrectionremix/ham%28ZUK%20Z1%29/v5.8.4/RR-N-v5.8.4-20170810-ham-Official.zip</RomUrl>
+                description="Touch here to get it!">https://master.dl.sourceforge.net/project/resurrectionremix/ham%28ZUK%20Z1%29/v5.8.4/RR-N-v5.8.4-20170827-ham-Official.zip</RomUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Need latest Google APPS?"
